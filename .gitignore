@@ -1,0 +1,7 @@
+# Playwright browser automation logs
+.playwright-mcp/
+
+# OS files
+.DS_Store
+Thumbs.db
+_new_sources/
