@@ -2,7 +2,7 @@
 
 # <img src="assets/deskclaw-icon.png" alt="DeskClaw" width="28" /> Awesome OpenClaw Personas
 
-> **Production-ready AI specialists for your business** — from e-commerce product scouts to deal strategists, from SEO writers to financial forecasters. Each persona is a deployable expert with personality, methodology, and proven workflows.
+> **214 ready-to-use AI agent personas for OpenClaw** — each one a complete specialist with real SOPs, decision frameworks, and structured outputs. Clone a folder, get an expert.
 
 <a href="https://deskclaw.net">
   <img src="https://img.shields.io/badge/Powered%20by-DeskClaw-blue?style=for-the-badge" alt="Powered by DeskClaw" />
