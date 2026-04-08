@@ -2,15 +2,18 @@
 
 # <img src="assets/deskclaw-icon.png" alt="DeskClaw" width="28" /> Awesome OpenClaw Personas
 
-> **214 ready-to-use AI agent personas for OpenClaw** — each one a complete specialist with real SOPs, decision frameworks, and structured outputs. Clone a folder, get an expert.
-
 <a href="https://deskclaw.net">
   <img src="https://img.shields.io/badge/Powered%20by-DeskClaw-blue?style=for-the-badge" alt="Powered by DeskClaw" />
 </a>
-<img src="https://img.shields.io/badge/Personas-214%2B-blueviolet?style=for-the-badge" alt="214+ Personas" />
+<img src="https://img.shields.io/badge/Personas-214%2B-orange?style=for-the-badge" alt="214+ Personas" />
 <img src="https://img.shields.io/badge/Updated-Weekly-green?style=for-the-badge" alt="Weekly Updates" />
 
+**Languages:**
+[English](README.md) · [中文](README.zh-CN.md) · [Français](README.fr.md) · [Deutsch](README.de.md) · [Русский](README.ru.md) · [日本語](README.ja.md) · [Italiano](README.it.md) · [Español](README.es.md)
+
 </div>
+
+> **214 ready-to-use AI agent personas for OpenClaw** — each one a complete specialist with real SOPs, decision frameworks, and structured outputs. Clone a folder, get an expert.
 
 ---
 
